@@ -502,6 +502,7 @@ public class NamozVaqtiBot extends TelegramLongPollingBot {
         executeMessage(message);
     }
 
+
     // --- EXECUTE MESSAGE ---
     private void executeMessage(SendMessage message) {
         try {
